@@ -32,6 +32,6 @@ Gottfried's Generator - named for Gottfried Liebniz, the codifier of the modern 
 ![This should be a picture of a generated worksheet, but it isn't working right now. Sorry.](/Screenshots/GG_screen_shot_2.jpg)
 
 
-Download and extract <b>"Gottfried's Generator - Application.zip"</b> to start using the program.
+Download everything in the <b>"Publish"</b> folder to start using the program.
 
 If anything doesn't work, or you have suggestions for improvements, or anything else, please do get in touch. You can find me on here, on Twitter as [@peritract](http://twitter.com/peritract), or email me at peritract@hotmail.co.uk.
