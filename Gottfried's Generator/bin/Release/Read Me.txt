@@ -1,0 +1,5 @@
+﻿Gottfried's Generator is a program that creates binary worksheets. I made it to be used by CS teachers of KS3/4, as a project to get my CS teacher qualification.
+
+It's named for Gottfried Liebniz, who first described the modern binary system in 1703.
+
+Choose the options you want, and then click "generate worksheet". A word document containing questions (and answers) will be generated.
