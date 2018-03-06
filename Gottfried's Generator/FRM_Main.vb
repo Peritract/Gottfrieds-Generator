@@ -18,7 +18,7 @@ Public Class FRM_Main
 
     Private Sub TXT_Highest_Validating(sender As Object, e As CancelEventArgs) Handles TXT_Highest.Validating
         'When validated, alerts the user if the value in the textbox is non-numeric
-        If Not IsNumeric(TXT_Highest.Text) Or TXT_Highest.Text < 1 Then
+        If Not IsNumeric(TXT_Highest.Text) Or TXT_Highest.Text < 1 Or TXT_Highest.Text > 2147483647 Then
             MsgBox("Please enter a valid highest value.")
             e.Cancel = True
         End If

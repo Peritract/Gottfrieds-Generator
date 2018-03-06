@@ -50,7 +50,6 @@ F:\Programming Project\Gottfried's Generator\Gottfried's Generator (Source code)
 F:\Programming Project\Gottfried's Generator\Gottfried's Generator (Source code)\Gottfried's Generator\obj\Debug\Gottfried's Generator.exe
 F:\Programming Project\Gottfried's Generator\Gottfried's Generator (Source code)\Gottfried's Generator\obj\Debug\Gottfried's Generator.xml
 F:\Programming Project\Gottfried's Generator\Gottfried's Generator (Source code)\Gottfried's Generator\obj\Debug\Gottfried's Generator.pdb
-C:\Users\Daniel\Downloads\Gottfrieds-generator-master\Gottfrieds-generator-master\Gottfried's Generator\bin\Debug\Worksheet template.dotx
 C:\Users\Daniel\Downloads\Gottfrieds-generator-master\Gottfrieds-generator-master\Gottfried's Generator\bin\Debug\Gottfried's Generator.exe.config
 C:\Users\Daniel\Downloads\Gottfrieds-generator-master\Gottfrieds-generator-master\Gottfried's Generator\bin\Debug\Gottfried's Generator.exe.manifest
 C:\Users\Daniel\Downloads\Gottfrieds-generator-master\Gottfrieds-generator-master\Gottfried's Generator\bin\Debug\Gottfried's Generator.application

@@ -69,7 +69,7 @@ Partial Class FRM_Main
         '
         Me.TXT_Highest.Location = New System.Drawing.Point(286, 72)
         Me.TXT_Highest.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TXT_Highest.MaxLength = 16
+        Me.TXT_Highest.MaxLength = 10
         Me.TXT_Highest.Name = "TXT_Highest"
         Me.TXT_Highest.Size = New System.Drawing.Size(157, 26)
         Me.TXT_Highest.TabIndex = 3
